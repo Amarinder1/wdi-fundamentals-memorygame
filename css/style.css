@@ -65,6 +65,11 @@ footer{
 	font-weight: 500;
 }
 
+#score{
+	font-family: "Raleway", sans-serif;
+	padding-top: 16px;
+}
+
 .copyright{
 	font-family: "Raleway", sans-serif;
 	float: left;
@@ -91,4 +96,14 @@ footer{
 
 a:hover{
 	border-color: white;
+}
+
+input{
+	background-color: #F15B31;
+	border: none;
+	color: white;
+	padding: 15px 20px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
 }
